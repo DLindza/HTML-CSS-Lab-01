@@ -1,13 +1,51 @@
 * {
   background-color: #00b3b3;
-  
+  text-align: center;
 }
-img {
-  width: 200px;
-  height: 200px;
-}
+
 
 p {
   width: 600px;
+  margin: auto;
+  font-weight: normal;
+}
 
+nav.a {
+  width: 500px
+  margin: auto;
+}
+
+.job {
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+
+.job_title{
+  border: 1px solid black;
+  font-weight: bold;
+  font-size: 18;
+
+}
+
+.company{
+  font-style: italic;
+  padding-bottom: 10px;
+}
+
+ul {
+  text-align: center;
+  width: 450px;
+  margin: auto;
+}
+
+li {
+  text-align: center;
+  width: 450px;
+  margin: auto;
+
+}
+
+img {
+  width: 200px;
+  height: 200px;
 }
